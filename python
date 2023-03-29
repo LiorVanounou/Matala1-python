@@ -1,6 +1,6 @@
 #Lior Vanounou
 #313333106
-#Q1
+#Q2
 
 def revword(Word:str):
     Word = Word.lower()[::-1]
